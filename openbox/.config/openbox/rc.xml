@@ -437,13 +437,13 @@
 
     <!-- Keybindings for menus -->
     <keybind key="W-Tab">
-      <action name="ShowMenu">
+      <action name="ShowMenu">   
         <menu>client-list-combined-menu</menu>
       </action>
     </keybind>
     <keybind key="W-space">
-      <action name="ShowMenu">
-        <menu>root-menu</menu>
+      <action name="Execute">
+        <command>rofi -show run</command> 
       </action>
     </keybind>
     <keybind key="A-C-q">
