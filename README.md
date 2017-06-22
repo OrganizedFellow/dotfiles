@@ -13,6 +13,8 @@ I discovered GNU Stow recently and immediate found it useful. While I am just ge
 `mv ~/.config/openbox/rc.xml ~/dotfiles/openbox/.config/openbox/rc.xml`
 `mv ~/.config/terminator/config ~/dotfiles/terminator/.config/terminator/config`
 
+
+
 **2nd** run `stow` command:
 `stow tint2`
 `stow openbox`
