@@ -7,6 +7,12 @@
 # For more config file examples, see:
 # http://bunsenlabs.org/topic/3232/my-tint2-config/
 
+# MORE HELP
+# https://wiki.archlinux.org/index.php/tint2
+# https://gitlab.com/o9000/tint2/blob/master/doc/tint2.md#clock
+# http://www.manpagez.com/man/3/strftime/
+
+
 # Background definitions
 # ID 1
 rounded = 0
