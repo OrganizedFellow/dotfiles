@@ -86,3 +86,5 @@ xfce4-power-manager &
 
 ## bl-fortune - have the system come up with a little adage (not yet enabled)
 #(sleep 120; bl-fortune) &
+
+./dualmonitor.sh &
