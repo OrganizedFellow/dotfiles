@@ -13,5 +13,6 @@
 	"save_on_focus_lost": true,
 	"sidebar_tree_small": true,
 	"theme": "Numix Dark Light Blue.sublime-theme",
-	"word_wrap": "auto"
+    "font_face": "Courier Prime Code",
+    "font_size": 10,	"word_wrap": "auto"
 }
