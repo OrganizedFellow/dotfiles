@@ -1,0 +1,9 @@
+===============================
+Tue 27 Jun 2017 06:56:55 AM MDT
+===============================
+ADDED FONT TO ~/.FONTS
+COURIER PRIME CODE
+CODE-OPTIMIZED SANS FOR PROGRAMMERS.
+COURIER PRIME CODE FEATURES LARGER LINE HEIGHT, NEW ASTERISK, SLASHED ZERO AND STRAIGHT-LEGGED ITALIC "F."
+SOURCE:
+https://quoteunquoteapps.com/courierprime/
