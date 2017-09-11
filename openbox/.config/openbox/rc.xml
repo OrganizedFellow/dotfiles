@@ -361,7 +361,8 @@
           <enabled>true</enabled>
           <name>Web Browser</name>
         </startupnotify>
-        <command>google-chrome-stable</command>
+        <!-- <command>google-chrome-stable</command> -->
+        <command>flashpeak-slimjet</command>
       </action>
     </keybind>
     <keybind key="W-l">
