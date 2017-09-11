@@ -1,3 +1,6 @@
+./dualmonitor.sh &
+
+
 ## Openbox autostart
 ## ====================
 ## When you login to your BunsenLabs Openbox session, this autostart script
@@ -58,6 +61,7 @@ bl-start-pulseaudio-x11
 
 ## Volume control for systray
 volumeicon &
+#volti &
 
 ## Start the Conky session (the default conkyrc will run if no sessions have been set)
 bl-conky-session --autostart &
@@ -87,4 +91,3 @@ xfce4-power-manager &
 ## bl-fortune - have the system come up with a little adage (not yet enabled)
 #(sleep 120; bl-fortune) &
 
-./dualmonitor.sh &
