@@ -355,6 +355,7 @@
         <command>x-terminal-emulator</command>
       </action>
     </keybind>
+
     <keybind key="W-w">
       <action name="Execute">
         <startupnotify>
@@ -365,6 +366,17 @@
         <command>flashpeak-slimjet</command>
       </action>
     </keybind>
+    <keybind key="W-q">
+      <action name="Execute">
+        <startupnotify>
+          <enabled>true</enabled>
+          <name>QOwnNotes</name>
+        </startupnotify>
+        <!-- <command>google-chrome-stable</command> -->
+        <command>qownnotes</command>
+      </action>
+    </keybind>
+
     <keybind key="W-l">
       <action name="Execute">
         <startupnotify>
